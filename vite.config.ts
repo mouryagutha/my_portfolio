@@ -45,4 +45,9 @@ export default defineConfig({
   define: {
     CONFIG: CONFIG,
   },
+  resolve: {
+    alias: {
+      '@': '/src', // Ensure this matches your project structure
+    },
+  },
 });

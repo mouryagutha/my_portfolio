@@ -1,17 +1,10 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "@mourya/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "3.1.0",
   "type": "module",
   "license": "MIT",
-  "author": "arifszn",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
-  },
-  "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
-  },
+  "author": "mourya",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
